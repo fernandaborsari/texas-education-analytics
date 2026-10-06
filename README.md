@@ -46,4 +46,16 @@ All data is publicly available from the **Texas Education Agency (TEA)**:
 
 ---
 
-## 🔧 Data Model
+## 📥 How to Use
+
+1. Download `Texas_Education_Analytics.pbix`
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. If prompted about data sources, update the file paths to your local data folder
+4. Python visual requires Python 3.x with `matplotlib`, `pandas`, `numpy`
+
+---
+
+## 👩‍💻 Author
+
+**Fernanda Borsari**  
+Data Analyst · [LinkedIn](https://www.linkedin.com/in/fernanda-borsari-miguel) · [Portfolio](https://fernandaanalytics.com/)
